@@ -9,7 +9,4 @@ PlantGame.java – Main file to run the game
 GameFrame.java – Sets up the game window
 GamePanel.java – Handles game logic and rendering
 
-How to Run
-Clone the repository: git clone https://github.com/yourusername/PlantPal.git
-Open the project in an IDE (IntelliJ, Eclipse, VS Code).
-Compile and run the main Java file.
+
